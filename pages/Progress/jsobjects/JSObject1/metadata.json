@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6715000e36708a413cdb4371_14213d65-86b8-45a8-9c12-71310a7118ff",
+  "id": "Progress_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Progress",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
